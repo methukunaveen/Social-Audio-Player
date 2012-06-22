@@ -34,7 +34,7 @@
 		<service android:name=".widgetService"></service>
 		<activity android:name=".playlist"></activity>
 	</application>
-	<uses-sdk android:minSdkVersion="4" />
+	<uses-sdk android:minSdkVersion="8" />
 
 	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
 	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
